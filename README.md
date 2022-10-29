@@ -23,3 +23,8 @@ If you need help on how to run R in google colab, please see the next link here
 https://colab.research.google.com/drive/1iz6ILnVGt8Qc6UR1l7oTPou4l6WSrw9S
 
 Finally, when saving the .ipynb file to the GitHub repo, please be sure to run all of the cells, the output of each cell is saved for me to review.
+
+
+
+#### Project Error
+ Instructions does not include dataset or location for cardiacdata on chapter 3. Couod not finish on the .ipynb file
